@@ -1,0 +1,66 @@
+[
+    {
+      "img": "Asset/Rectangle 2-1.png",
+      "course_name": "Web Development Basics",
+      "credit": 3,
+      "price": 49.99,
+      "details": "Learn the fundamentals of web development with HTML, CSS, and JavaScript."
+    },
+    {
+      "img": "Asset/Rectangle 2-2.png",
+      "course_name": "Data Science Fundamentals",
+      "credit": 4,
+      "price": 79.99,
+      "details": "Explore the basics of data science, including data analysis and visualization."
+    },
+    {
+      "img": "Asset/Rectangle 2-3.png",
+      "course_name": "Graphic Design Mastery",
+      "credit": 5,
+      "price": 99.99,
+      "details": "Master the art of graphic design using industry-standard tools and techniques."
+    },
+    {
+      "img": "Asset/Rectangle 2-4.png",
+      "course_name": "Mobile App Development",
+      "credit": 4,
+      "price": 69.99,
+      "details": "Build mobile apps for iOS and Android platforms using popular frameworks."
+    },
+    {
+      "img": "Asset/Rectangle 2-5.png",
+      "course_name": "Introduction to Machine Learning",
+      "credit": 3,
+      "price": 59.99,
+      "details": "An introductory course to machine learning concepts and algorithms."
+    },
+    {
+      "img": "Asset/Rectangle 2-6.png",
+      "course_name": "Digital Marketing Essentials",
+      "credit": 3,
+      "price": 49.99,
+      "details": "Learn the fundamentals of digital marketing, including SEO and social media strategies."
+    },
+    {
+      "img": "Asset/Rectangle 2-1.png",
+      "course_name": "Artificial Intelligence Applications",
+      "credit": 5,
+      "price": 89.99,
+      "details": "Explore real-world applications of artificial intelligence in various industries."
+    },
+    {
+      "img":"Asset/Rectangle 2.png",
+      "course_name": "Photography Fundamentals",
+      "credit": 2,
+      "price": 39.99,
+      "details": "Master the basics of photography, from composition to post-processing."
+    },
+    {
+      "img": "Asset/Rectangle 3.png",
+      "course_name": "Cybersecurity Essentials",
+      "credit": 4,
+      "price": 79.99,
+      "details": "Learn essential cybersecurity concepts and practices to secure digital assets."
+    }
+  ]
+  
