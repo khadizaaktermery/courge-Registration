@@ -16,8 +16,8 @@ const {img,course_name,details,price,credit} = blog;
 </div> 
 </div> 
             <button
-            onClick={()=> handleAddToCourseName(blog)}
-             className="bg-blue-600 text-white pl-35 pr-35 mt-4 ">Select</button>
+            onClick={()=>handleAddToCourseName(blog)}
+             className="bg-blue-600 text-white w-[280px] h-[40px] mt-4 ">Select</button>
         </div>
     );
 };

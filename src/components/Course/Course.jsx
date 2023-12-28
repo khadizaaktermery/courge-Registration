@@ -2,8 +2,11 @@
 const Course = ({course}) => {
 const {course_name}=course;
     return (
-        <div>
-            <h3 className="text-2xl bg-slate-200 p-4 m-4 rounded-xl">{course_name}</h3>
+        <div className="bg-gray-100 m-1 pr-6">
+       
+        <h3>{course_name}</h3>
+
+      
         </div>
     );
 };
