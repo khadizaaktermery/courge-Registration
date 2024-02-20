@@ -1,4 +1,5 @@
 import './App.css'
+ 
 import Header from './components/Header'
 import Blogs from './components/blogs/blogs'
 import { useState } from 'react';
@@ -12,13 +13,12 @@ function App() {
   const [remaining,setRemaing] = useState(20);
   const [credit,setCredit] = useState(0);
   const [price,setPrice] =useState(0);
-  // var b=20;
 
    
   const handleAddToCourseName =blog =>{
     console.log(blog)
     if(courseName.includes(blog)){
-      alert('allready added')
+      alert('already added !')
 
     }
     else if   (blog.credit<=remaining){
@@ -47,7 +47,7 @@ function App() {
     <div className='md:flex max-w-7xl mx-auto '>
    <Blogs handleAddToCourseName = {handleAddToCourseName}
    ></Blogs>
-    <div className='w-1/5 bg-gray-300 ml-4 mt-6 pt-4'>
+    <div className='w-1/5 ml-4 mt-6 pt-4 bg-gray-300'>
       <Remaing remaining={remaining} ></Remaing>
    <Courses courses={courseName} ></Courses>
 

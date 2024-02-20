@@ -2,7 +2,7 @@ import { IoBookOutline } from "react-icons/io5";
 const Blog = ({blog, handleAddToCourseName}) => {
 const {img,course_name,details,price,credit} = blog;
     return (
-        <div className="mb-4">
+        <div className="p-4 mb-4">
            <img src = {img} alt=""/> 
            <h1 className="text-2xl">{course_name}</h1>
            <p>{details}</p>
